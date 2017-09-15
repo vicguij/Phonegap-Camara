@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.h4ckademy.camera.1" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Camera 1</name>
+    <description>
+      Pequeña App de fotos con phonegap
+    </description>
+    <author email="saphyr@saphyr.com" href="http://saphyr.com">
+        Saphyre
+    </author>
+    <content src="index.html" />
+    <access origin="*" />    
+    <plugin name="cordova-plugin-whitelist"/>
+    <plugin name="cordova-plugin-camera"/>
+</widget>
